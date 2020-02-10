@@ -1,2 +1,2 @@
 # demo
-tgrgtere5
+A new MC mod project.
